@@ -1,13 +1,11 @@
 {
-	"applinks": {
-	"apps": [],
-	"details": [
-		{
-			"appID": "EJRBYCSV2W.jp.co.totomo.mtbrowser",
-			"paths": [
-				"*"
-			] 
-		}
-	]
-	}
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "EJRBYCSV2W.jp.co.totomo.mtbrowser",
+                "paths": [ "/" ]
+            }
+        ]
+    }
 }
