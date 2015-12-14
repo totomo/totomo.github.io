@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "EJRBYCSV2W.jp.co.totomo.mtbrowser",
-                "paths": [ "*" ]
+                "paths": [ "/" ]
             }
         ]
     }
